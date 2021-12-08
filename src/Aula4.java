@@ -7,9 +7,6 @@ public class Aula4 {
         //Disjunção exclusiva Só é verdade se os operandos forem falsos, ^, xor;
         //Negação inversão do operando (se for verdade torma falso, e se for falso torna verdade,!.
 
-
-
-
         boolean b1 = true;
         boolean b2 = false;
         boolean b3 = true;
@@ -23,3 +20,5 @@ public class Aula4 {
     }
 
 }
+
+.
